@@ -1,0 +1,7 @@
+best trial in model-Model_1: trial-5
+best trial in model-Model_2: trial-10
+best trial in model-Model_3: trial-13
+best trial in model-Model_4: trial-12
+best trial in model-Model_5: trial-12
+best trial in model-Model_6: trial-0
+best trial in model-Model_7: trial-11

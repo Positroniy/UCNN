@@ -1,0 +1,10 @@
+Model_1number of filters 1: 24
+number of filters 2: 48
+number of filters 3: 128
+size filters: 3
+Max Pooling 2D size: 2
+activation function: LeakyReLU with alpha= 0.2
+dropout=0.24684113325773743
+dense layer=256
+optimizer: sgd
+accuracy=0.7827000021934509
